@@ -2,7 +2,7 @@
 // @name         PlayerFilter
 // @namespace    Heasleys4hemp.PlayerFilter
 // @version      1.0
-// @description  Remove players in Hospital/Travel/Federal Jail
+// @description  Remove players in Hospital/Travel/Federal Jail from advanced search
 // @author       Heasleys4hemp [1468764]
 // @include     *.torn.com/userlist.php*
 // ==/UserScript==
